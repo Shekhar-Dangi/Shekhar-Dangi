@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shekhar-Dangi
 - 👀 I’m interested in trying out new things and of course to code!
-- 🌱 I’m currently learning React and Node JS
+- 🌱 I’m currently improving my Web Development skills
 - 📫 You can mail me at arpitt682@gmail.com
 
 <!---
