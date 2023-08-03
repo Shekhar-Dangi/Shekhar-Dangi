@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shekhar-Dangi
 - 👀 I’m interested in trying out new things and of course to code!
-- 🌱 I’m currently improving my Web Development skills
-- 📫 You can mail me at arpitt682@gmail.com
+- 🌱 I’m currently learning Web Development.
+- 📫 You can mail me at dangishekhar3109@gmail.com
 
 <!---
 Shekhar-Dangi/Shekhar-Dangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
