@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shekhar-Dangi
 - 👀 I’m interested in trying out new things and of course to code!
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently exploring computer hardware.
 - 📫 You can mail me at dangishekhar3109@gmail.com
 
 <!---
